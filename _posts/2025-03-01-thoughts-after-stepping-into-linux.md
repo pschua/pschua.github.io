@@ -5,9 +5,9 @@ categories: [Updates, Linux]
 tags: [updates, linux]
 ---
 
-I've made the jump into Linux after building my first PC. It certainly made for a weird conversation at the PC shop when they asked if I want to buy Windows and I kept insisting a bloody watermark is fine, or that I can't change my wallpaper.
+I made the jump into Linux after building my first PC 1.5 months ago. It certainly made for a weird conversation at the PC shop when they asked if I want to buy Windows and I kept insisting a bloody watermark is fine.
 
-The first thing I done after arranging my desk was installing Linux Mint. And then the journey, quite a painful but joyous one begins. Here are some of my thoughts after making the switch.
+The first thing I did after arranging my desk was installing Linux Mint. And then the journey, quite a painful but joyous one (in the end), begins.
 
 # Wired peripherals
 A no-brainer for many PC veterans, but a total misjudgment from someone coming from a decade and half of laptop use.
@@ -16,7 +16,7 @@ Bluetooth doesn't work during the BIOS setup, which means I can't select any opt
 
 Thankfully I had a wireless Logitech Anywhere mouse that still had the USB receiver, so that worked. But not enough for me to get far enough.
 
-I slept without completing the a task, and it wasn't a good sleep. I ran down to the nearest office supplies shop the next day to get the cheapest wired keyboard that served only one purpose. It now sits in the cupboard since I've gotten myself a better keyboard.
+I slept without completing the task. It wasn't a good sleep. I ran down to the nearest office supplies shop the next day to get the cheapest wired keyboard that served only one purpose — installing Linux Mint. It now sits inside the cupboard since I've gotten myself a better keyboard.
 
 # Motherboard issues
 So there was a bit of drama at the PC shop that I didn't mention.
