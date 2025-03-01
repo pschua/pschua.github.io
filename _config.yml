@@ -120,10 +120,10 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: pschua/pschua.github.io
-    repo_id: 
-    category: Announcements
-    category_id:
-    mapping: title
+    repo_id: R_kgDOJozGvQ
+    category: General
+    category_id: DIC_kwDOJozGvc4CndgS
+    mapping: path
     strict: 1
     input_position: bottom
     lang: en
