@@ -2,7 +2,7 @@
 title: "Finally got around to doing this"
 date: 2024-10-20 22:02:00 +0700
 categories: [Updates]
-tags: [Updates]
+tags: [updates]
 ---
 
 # Hello World
