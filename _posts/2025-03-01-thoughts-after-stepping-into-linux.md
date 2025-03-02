@@ -1,6 +1,6 @@
 ---
 title: "Thoughts after stepping into Linux"
-date: 2024-10-20 22:02:00 +0700
+date: 2025-03-01 22:02:00 +0700
 categories: [Updates, Linux]
 tags: [updates, linux]
 ---
@@ -21,7 +21,7 @@ I slept without completing the task. It wasn't a good sleep. I ran down to the n
 # Motherboard issues
 So there was a bit of drama at the PC shop that I didn't mention.
 
-While I was selecting my PC parts, I referenced [Hardware for Linux](https://linux-hardware.org/?view=search) extensively to run through the parts that are compatible with Linux.
+While I was selecting my PC parts, I referenced [Hardware for Linux](https://linux-hardware.org/?view=search){:target="_blank"} extensively to run through the parts that are compatible with Linux.
 
 However, I was kinda conned at the PC shop. Although I've outlined my specs, they ended up bringing me a motherboard that wasn't the one I picked.
 
