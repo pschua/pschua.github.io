@@ -40,7 +40,7 @@ They were having a casual conversation and didn't stop intentionally at the 5-mi
 # Trying something much more difficult
 The obvious next step was to split the video at 'points of silence'. Meaning my code had to detect when is the right time to split it, ideally near my defined separation point.
 
-I found a pretty old, not recently maintained library to do this called (pydub)[https://github.com/jiaaro/pydub]{:target="_blank"}. Not a good practice for long-term development, but it works.
+I found a pretty old, not recently maintained library to do this called [pydub](https://github.com/jiaaro/pydub){:target="_blank"}. Not a good practice for long-term development, but it works.
 
 With this, I could chunk it at the points of silence and the result was much better than I expect. For my Japanese level, I can verify that almost all (if not all) of the translations are accurate.
 
