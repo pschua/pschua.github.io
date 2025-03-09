@@ -52,4 +52,4 @@ I don't think it's right for me to share the video here with the subtitles as th
 
 It was a very fun project that is helpful for my personal interest. I can see some uses for others to learn Japanese, or to translate some films that don't have an official translation, whatever film that might be.
 
-Once I cleaned up my code, I might push it to Github to share. Ideally, you can do everything locally using a GPU with high VRAM.
+Once I cleaned up my code, I might push it to Github to share. Ideally, you can do everything locally using a GPU with high VRAM, but a CPU works too.
