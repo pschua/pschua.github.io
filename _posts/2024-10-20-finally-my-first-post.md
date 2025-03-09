@@ -10,9 +10,9 @@ I've been wanting to kill my previous website that's built on Django cause it wa
 
 It's a hassle to maintain, especially cause it's a total from-zero built with no starter template or well-written documentation on how to maintain thanks to its lazy developer.
 
-Also it's another avenue for cost cutting in this cost-cutting era.
+It's also another avenue for cost cutting in this cost-cutting era.
 
-I'm glad killing it was easy and I managed to back up all the posts, although I don't plan to repost those old stuff.
+I'm glad killing it was easy, and I backed up all the posts, although I don't plan to repost those old stuff.
 
 Many of those are outdated, and probably some LLMs already gobbled the knowledge up.
 
