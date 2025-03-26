@@ -1,9 +1,8 @@
 ---
 title: "Translation to English on any Videos via Whisper"
-date: 2025-03-25 19:13:00 +0700
+date: 2025-03-22 19:13:00 +0700
 categories: [Coding, Python]
 tags: [coding, python, openai, whisper]
-published: true
 ---
 
 This is a follow up of the [previous post]({% link _posts/2025-03-09-had-fun-with-japanese-translation-with-whisper.md %}).
